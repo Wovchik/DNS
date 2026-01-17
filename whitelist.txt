@@ -1,0 +1,71 @@
+# ===== PAYPAL =====
+api.paypal.com
+api-m.paypal.com
+mobileclient.paypal.com
+www.paypalobjects.com
+t.paypal.com
+c.paypal.com
+b.stats.paypal.com
+paypal.d1.sc.omtrdc.net
+paypal.112.2o7.net
+
+# ===== BANKING / FRAUD / CDN =====
+cdn.jsdelivr.net
+cdn.cloudflare.com
+akamaihd.net
+akamai.net
+edgekey.net
+edgesuite.net
+device-api.arkoselabs.com
+client-api.arkoselabs.com
+hcaptcha.com
+fcm.googleapis.com
+firebaseinstallations.googleapis.com
+
+# ===== GOOGLE / ANDROID =====
+googleapis.com
+gstatic.com
+google.com
+play.googleapis.com
+play-lh.googleusercontent.com
+maps.googleapis.com
+
+# ===== ANDROID CONNECTIVITY =====
+connectivitycheck.gstatic.com
+clients3.google.com
+connectivitycheck.android.com
+
+# ===== XIAOMI SYSTEM =====
+api.device.xiaomi.net
+mcc.intl.inf.miui.com
+resolver.msg.global.xiaomi.net
+
+# ===== MICROSOFT SYSTEM =====
+windows.com
+microsoft.com
+msftconnecttest.com
+windowsupdate.com
+update.microsoft.com
+
+# ===== MICROSOFT LOGIN / CLOUD =====
+login.microsoftonline.com
+device.login.microsoftonline.com
+onedrive.live.com
+storage.live.com
+outlook.office.com
+outlook.live.com
+office365.com
+
+# ===== MICROSOFT TEAMS =====
+aadcdn.msftauth.net
+aadcdn.msauth.net
+teams.microsoft.com
+teams.live.com
+statics.teams.cdn.office.net
+graph.microsoft.com
+skype.com
+skypeassets.com
+sharepoint.com
+sharepointonline.com
+officecdn.microsoft.com
+msedge.net
